@@ -7,6 +7,7 @@ Using **Test driven development (TDD)**, I created the following modules:
 - Leap Year🤸‍♂️
 - Canonical DNA💪
 - Array Sum😏
+- Consecutive Repeating Character🧩
     
 <br />
 <br />
