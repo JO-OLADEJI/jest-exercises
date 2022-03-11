@@ -5,6 +5,7 @@ This is just me practicing my **automated testing**🧪 skills.
 Using **Test driven development (TDD)**, I created the following modules:
 - FizzBuzz😑
 - Leap Year🤸‍♂️
+- Canonical DNA💪
     
 <br />
 <br />
