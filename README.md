@@ -6,6 +6,7 @@ Using **Test driven development (TDD)**, I created the following modules:
 - FizzBuzz😑
 - Leap Year🤸‍♂️
 - Canonical DNA💪
+- Array Sum😏
     
 <br />
 <br />
