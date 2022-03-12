@@ -8,6 +8,7 @@ Using **Test driven development (TDD)**, I created the following modules:
 - Canonical DNA💪
 - Array Sum😏
 - Consecutive Repeating Character🧩
+- Max Ones😵
     
 <br />
 <br />
